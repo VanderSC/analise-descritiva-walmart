@@ -25,3 +25,5 @@ Os homens em média gastam mais do que as mulheres em todas as faixas etárias. 
 Categoria C tem o maior valor de compra em média, depois Categoria B e, finalmente, Categoria A. O motivo é que, embora a cidade da Categoria C tenha menor volume, a população tem poder aquisitivo mais alto e, de fato, gasta mais em uma compra.
 
 Em outras palavras Os homens têm a liderança em termos de volume e valor gasto por compra em todas as faixas etárias, mas é a faixa etária de 26 a 35 anos que representa o topo, possivelmente devido a uma combinação de maior poder de compra.
+
+Link do conjunto de dados: https://www.kaggle.com/datasets/devarajv88/walmart-sales-dataset
