@@ -12,7 +12,7 @@ A cidade da categoria B tem o maior volume de vendas, que poderia ser o resultad
 
 Os homens compram quase 3 vezes mais do que as mulheres. Isso pode ter várias razões, como a desigualdade no tipo de consumo, interesse de compra ou mesmo a desigualdade na representação de homens em produtos que estão em alta demanda.
 
-![image](https://github.com/VanderSC/analise-descritiva-walmart/assets/95940138/21d72e91-157d-4845-bccd-ddf28c3436d6)
+![image](https://github.com/VanderSC/analise-descritiva-walmart/assets/95940138/49d9ed7d-bab6-4f29-8cbf-f0f8716a397b)
 
 A faixa etária de 26-35 é a faixa etária mais participativa em fazer compras, e o motivo para isso pode ser que é uma faixa etária em que as pessoas têm uma pequena estabilidade financeira e estão em um estágio da vida em que querem gastar um pouco de dinheiro em coisas e atividades consumíveis. A faixa etária de 36-45 anos é a segunda mais participativa em fazer compras, representando, talvez, um segundo turno de relativa estabilidade financeira e responsabilidade, assim como um aumento no poder aquisitivo.
 
