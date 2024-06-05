@@ -12,15 +12,15 @@ A cidade da categoria B tem o maior volume de vendas, que poderia ser o resultad
 
 Os homens compram quase 3 vezes mais do que as mulheres. Isso pode ter várias razões, como a desigualdade no tipo de consumo, interesse de compra ou mesmo a desigualdade na representação de homens em produtos que estão em alta demanda.
 
-![image](https://github.com/VanderSC/analise-descritiva-walmart/assets/95940138/49d9ed7d-bab6-4f29-8cbf-f0f8716a397b)
+![image](https://github.com/VanderSC/analise-descritiva-walmart/assets/95940138/cb1c93f2-15ed-4de6-b2f9-395a758e45b3)
 
 A faixa etária de 26-35 é a faixa etária mais participativa em fazer compras, e o motivo para isso pode ser que é uma faixa etária em que as pessoas têm uma pequena estabilidade financeira e estão em um estágio da vida em que querem gastar um pouco de dinheiro em coisas e atividades consumíveis. A faixa etária de 36-45 anos é a segunda mais participativa em fazer compras, representando, talvez, um segundo turno de relativa estabilidade financeira e responsabilidade, assim como um aumento no poder aquisitivo.
 
-![image](https://github.com/VanderSC/analise-descritiva-walmart/assets/95940138/6c856a76-271a-480d-9136-1126e6edbf89)
+![image](https://github.com/VanderSC/analise-descritiva-walmart/assets/95940138/947c8b39-d3f5-4aa7-a4f5-c3e84ec08732)
 
 Os homens em média gastam mais do que as mulheres em todas as faixas etárias. Isso poderia significar que, embora as mulheres comprem com menos frequência, elas poderiam ser compradoras de algo que tem um valor médio menor. Pode ser algo relacionado aos padrões de consumo, que a diferença de gastos mostra, com os homens possivelmente inclinados a comprar coisas caras.
 
-![image](https://github.com/VanderSC/analise-descritiva-walmart/assets/95940138/d35d8d7c-f091-4781-98b1-8200ae7f2454)
+![image](https://github.com/VanderSC/analise-descritiva-walmart/assets/95940138/932f3f59-2ad9-4c90-87e6-e1e1a70a034e)
 
 Categoria C tem o maior valor de compra em média, depois Categoria B e, finalmente, Categoria A. O motivo é que, embora a cidade da Categoria C tenha menor volume, a população tem poder aquisitivo mais alto e, de fato, gasta mais em uma compra.
 
